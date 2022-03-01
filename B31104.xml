@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the inhumane and unparallel'd actions and barbarous murders of Negroes or Moors committed on three English-men in Old Calabar in Guinny of the wonderful deliverance of the fourth person, after he had endured horrid cruelties and sufferings, who lately arrived in England, and is now in His Majesties fleet : together with a short but true account of the customs and manners and growth of the country, which is very pleasant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31104</idno>
+            <idno type="STC">Wing T2970</idno>
+            <idno type="EEBO-CITATION">13804240</idno>
+            <idno type="OCLC">ocm 13804240</idno>
+            <idno type="VID">205822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205822)</note>
+            <note>Images scanned from microfilm: (Early English books,1641-1700 ; 853:68 or 1733:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the inhumane and unparallel'd actions and barbarous murders of Negroes or Moors committed on three English-men in Old Calabar in Guinny of the wonderful deliverance of the fourth person, after he had endured horrid cruelties and sufferings, who lately arrived in England, and is now in His Majesties fleet : together with a short but true account of the customs and manners and growth of the country, which is very pleasant.</title>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Passinger ... and Benjamin Hurlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reel 853:68 as Wing T2970, and at reel 1733:15 as Wing T3011 (number cancelled in Wing 2nd ed.)</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slave trade --  Nigeria --  Early works to 1800.</term>
+               <term>Calabar (Nigeria) --  History.</term>
+               <term>Calabar (Nigeria) --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205822:1" rendition="simple:additions"/>
+            <p>A True Relation OF THE Inhumane and Unparallel'd Actions, AND Barbarous Murders OF <hi>NEGROES</hi> or <hi>MOORS:</hi> Committed on three Engliſh-men in Old <hi>Calabar</hi> in <hi>Guinny.</hi> Of the Won<g ref="char:EOLhyphen"/>derful Deliverance of the Fourth Perſon, after he had endured Horrid Cruelties and Sufferings: who lately arrived in <hi>England,</hi> and is now in his Ma<g ref="char:EOLhyphen"/>jeſties Fleet.</p>
+            <p>Together with a ſhort, but true Account of the Cuſtoms and Manners and Growth of the Country, which is very Pleaſant.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Paſſinger</hi> at the three Bibles on <hi>London-Bridge,</hi> and <hi>Benjamin Hurlock</hi> over againſt S. <hi>Magnus</hi> Church. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:205822:2"/>
+            <pb n="3" facs="tcp:205822:2"/>
+            <head>
+               <hi>A True Relation of the inhumane and unpa<g ref="char:EOLhyphen"/>rallel'd Actions, and barbarous Murders of</hi> Negroes <hi>or</hi> Moors, <hi>committed on three En<g ref="char:EOLhyphen"/>gliſh men in Old</hi> Calabar <hi>in</hi> Guinny, &amp;c.</head>
+            <p>AMong the variety of Cruelties and Murders, which Hiſtory and Experience daily inform us of, this, which I now intend to relate, is none of the leaſt. And the ſtory you ſhall have <hi>ver<g ref="char:EOLhyphen"/>batim,</hi> from one of the ſufferers own mouth; who arrived lately in the <hi>Downs,</hi> and is now in His Majeſties Fleet.</p>
+            <p>In <hi>June</hi> 1668. the <hi>Peach-tree</hi> of <hi>London,</hi> a ſmall Veſſel of the Burthen of about ſixty Tuns, <hi>Edward Dixon</hi> Maſter, came in<g ref="char:EOLhyphen"/>to the <hi>Downs</hi> bound for <hi>Guinny,</hi> intending there to take in <hi>Ne<g ref="char:EOLhyphen"/>groes,</hi> and to tranſport them to the <hi>Barbadoes,</hi> and from thence to come for <hi>London,</hi> where <hi>John Watts</hi> the ſon of <hi>John Watts,</hi> of <hi>Elham,</hi> in the County of <hi>Kent,</hi> Chirurgion, ſhipt himſelf with the conſent of <hi>Richard Watts,</hi> publick Notary of <hi>Deal;</hi> little dreading that he, being not above eighteen years old, ſhould meet with ſuch a calamitous accident: The Ship had not been long in the <hi>Downs,</hi> but a fair gale preſenting, they ſuddenly hoiſted Sail, Gods providence ſeeming to fill their Sails with proſperous ſucceſs; the firſt place they touched at was the Gold Coaſt, where they ſtaid not long, but ſailed to old <hi>Calabar</hi> in the Bith of <hi>Guinny.</hi> They entered a river called the <hi>Croſs</hi> river into <hi>Paratt</hi> Iſland. After they had taken in their <hi>Negroes,</hi> and ready to ſail, their Anchor being a peek, the
+<pb n="4" facs="tcp:205822:3"/>Maſter calls up the Boatſwain and three men more, where<g ref="char:EOLhyphen"/>of the relator was one, and commands them to look out the Copper barrs that were left, and carry them on ſhore to try if th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y could ſell them: the Boatſwain with his ſmall company deſired that they might have Arms with them, not believing the report of ſome, that informed them they were a harmleſs, and innocent people: they took with them 3 Muſquets and a Piſtol, &amp; ſo rowed towards the ſhore, but not far from it unhappily our match fell into the water, &amp; the ſhip being faln down from that narrow part of the river, nearer the Sea, quite out of our ſight, we were conſulting what would be ſafeſt for us to do: we were not willing to precipitate our own ruine, and we were alſo aſhamed to return to our ſhip before we had diſpatched what we were commanded to: at length the Boatſwain commanded the Re<g ref="char:EOLhyphen"/>lator <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Watts</hi> on ſhore, to the firſt houſe to light our match, which we recovered out of the water, after it was extinct; which he readily obeyed: but before he was twenty Rods from the water ſide, he was ſeized on by two blacks (or rather Tawny mores) and by them haled above half a mile up into the Coun<g ref="char:EOLhyphen"/>try, and thrown with great violence upon his belly, and ſo compelled to lye till they ſtript him; and more company coming to them, they were ſo eager for his poor Canvas apparel, that ſome they tore off, others they cut off, and with that ſeveral pieces of his fleſh, to his intolerable pain: with theſe rags they made little children Aprons to cover their Privities: Linnen and Wollen being very ſcarce there. The Boatſwain ſeeing this <hi>John Watts</hi> was thus carried away, was reſolved with his other two companions to have him again, or elſe to venture all their lives for him: They arm themſelves; but whileſt they were conſulting what to do, whether to venture on ſhore, or not, of a ſudden they were beſet with about a dozen men in ſeveral Canoes, but they valiantly maintained their boat about the ſpace of three hours, for after two of their three Muſquets were diſcharged, they defended themſelves with their Oars, and Boat hooks. The Boatſwain received a mortal wound in his Groin, and fell down in the Boat; the other two adventu<g ref="char:EOLhyphen"/>red
+<pb n="5" facs="tcp:205822:3"/>in the River, endeavouring by ſwimming to eſcape the mercileſs hands of cruel infidels; but the Negroes with their ſwift Canoes ſoon overtook them, and brought them on ſhore to the place where the relater was. The Negroes took out the Boatſwain out of the ſhips boat; and inſtead of endeavouring at all to preſerve life which remained in him, immediately they rob'd him of it; one of them with a keen weapon cutting off his head before his companions faces; and then they prepare for their rare banquet, while he was yet reeking in his blood: they in a barbarous manner cut off pieces of fleſh from off his buttocks and his thighs and his arms and ſhoulders, and broi<g ref="char:EOLhyphen"/>led them on the coals, and with a great deal of impatience eagerly eat it before their faces to our great aſtoniſhment. About fourteen days after one of the company fell ſick, and in<g ref="char:EOLhyphen"/>ſtead of being Phyſicians to cure him, they were his Butchers to murther him. They ſerved him as they did the Boatſwain, cut off his head, and broiled and eat up his fleſh and rejoyced ex<g ref="char:EOLhyphen"/>ceedingly at this rich banquet. About ten days after the third fell ſick, whom they ſerved in the ſame manner. This was no ſmall cauſe of ſorrow to the relater: the thoughts of their inhu<g ref="char:EOLhyphen"/>mane and barbarous actions ſometimes ſurrounded him with fears and ſorrows, hourly expecting to taſte of the ſaid cruelty. Death did not ſeem ſo terrible to him as the violent manner of it; being left now alone in a ſtrange Country, deſtitute of friends or acquaintance, or any thing that might keep up his Spirits: die he would fain, but not by the hand of Infidels and barbarous Monſters. But the great God that is moſt compaſſio<g ref="char:EOLhyphen"/>nate in the greateſt extremities had pity on him, and notwith<g ref="char:EOLhyphen"/>ſtanding the alteration of the Climate and the want of Cloaths, and the ſtrangeneſs of his food which was only herbs, he con<g ref="char:EOLhyphen"/>tinued in good health, and had time enough to lament this direful providence. The Natives who were daily expecting another banquet, met with a diſappointment: either their cu<g ref="char:EOLhyphen"/>ſtoms or the over-ruling power of God would not ſuffer them to deſtroy him; he continuing ſtill in health. Therefore they re<g ref="char:EOLhyphen"/>ſolve to ſell him: his <hi>Araunia</hi> or Maſter was pretty free to diſ<g ref="char:EOLhyphen"/>courſe
+<pb n="6" facs="tcp:205822:4"/>him, which the relater was capable of, being about three years before in the <hi>Weſt-Indies,</hi> where he had learned the <hi>Tata</hi> language, which is eaſily attained being compre<g ref="char:EOLhyphen"/>hended in a very few words, and all the <hi>Negroes</hi> ſpeak of it. He began to diſcourſe his maſter to know the reaſon of their cruelty, who told him that he ſhould reſt himſelf contented, who if he were not ſick, ſhould not have his head cut off. In the Boat which in the beginning they took with them, was a Muſquet ſaved of the three which was not diſcharged; which his maſter ſome time after he had been with him, brought to him to know the uſe of it: he endeavoured as much as he could to make him apprehend the uſe of it, but ſtill they pro<g ref="char:EOLhyphen"/>feſt their ignorance: but they commanded and threatned him to ſhew the uſe of it: The fear of his maſters diſpleaſure and their inhumanity cauſed him to ſhoot it off; but the Negroes which expected ſome delightful thing were fruſtrated, and at the ſuddain noiſe and flaſh of fire (which they very much dread) ran from him, and were greatly affrighted; but quickly after hearing no more of that noiſe they came up to him again, and commanded him to do the like: he told them he had not powder which was the cauſe of the noiſe; but this would not ſatisfie theſe Barbarians. He not being able to anſwer their ex<g ref="char:EOLhyphen"/>pectation, they concluded he was not willing, they proceed to threaten him, and were about to murder him, had not his maſter reſcued him. Upon diſcourſe after with this <hi>Arauna</hi> or Maſter he began to underſtand the reaſon of their barbarous dealing with him and his friends, he telling him that naturally the people were civil and ſimply honeſt, but if provoked, full of revenge; and that this cruelty was occaſioned by ſome un<g ref="char:EOLhyphen"/>handſome action of carrying a Native away without their leave about a year before; they reſolving if any came aſhore they ſhould never go off alive. He had not been above ſeven weeks in the Country, but his maſter preſented him to his King, whoſe name was <hi>E-fn-me</hi> King of the <hi>Buckamores,</hi> who imme<g ref="char:EOLhyphen"/>diately gave him to his daughter, whoſe name was <hi>Om-jah,</hi> and when the King went abroad he attended him alſo as his
+<pb n="7" facs="tcp:205822:4"/>Page, throughout the whole Circuit of his Dominions, which was not above twelve miles, yet boaſting extreamly of his power and ſtrength, but glorying exceedingly that he had a white to attend him, whom he employed to carry his bow and arrows at ſeveral places remote from the Sea ſide; the people would run away from him for fear, others would fall down and ſeem to worſhip him, and uſe thoſe actions as they do to their God. Their progreſs was never ſo long but they could return home at night, but never without a handſome load of a cup of the creature. During all the time of the relaters ſervi<g ref="char:EOLhyphen"/>tude there, he never knew him go abroad and come home ſober. They drink of the beſt Palm Wine, and another ſort of ſtrong liquor, called <hi>Penrore.</hi> The relater quickly knew how to hu<g ref="char:EOLhyphen"/>mour this profound Prince, and if any of the Natives abuſed him, upon his complaint he had redreſs, as once by ſtriving with a Negroe his Arm was broke, which by providence more than skill was ſet again. After ſome months, the King of <hi>Ca-la-nanch</hi> whoſe name was <hi>E-fn-man-cha,</hi> hearing of this beautiful white, courted his neighbour Prince, that he would ſell him to him; at length they ſtruck a bargain, and the relater was ſold for a Cow and a Goat; this King was a very ſober and moderate perſon, free from treacheries and miſchiefs, that the other was ſubject unto; and he would often diſcourſe the Relater, and ask him of his King and Country, and if his Kingdomes and Dominions were as big as his, which were not above twenty five miles in length and fifteen in breadth. He told him as much as his underſtanding and years made him capable of, keeping ſtill in the bounds of mo<g ref="char:EOLhyphen"/>deſty, and yet relating as much as poſſible to the honour and dignity of his Sovereign; firſt informing him of the greatneſs of one of his Kingdomes, the ſeveral Shires and Counties it contained, with number of its Cities and Towns and Caſtles, and the ſtrength of each, the infinite inhabitants, and valour of his Subjects. One of theſe Kingdomes was enough to amaze ſufficiently this petty Governour, that he need not to mention any more of his Majeſties Glory and Dignity. It put him into
+<pb n="8" facs="tcp:205822:5"/>ſuch a profound conſternation, that he reſolved to find out ſome way to tender his reſpects to this mighty Prince, and no way could he find ſo convenient, as to tell the Relater, that if he could find but a paſſage, he would let him go to <hi>England,</hi> to tell his Majeſty of the great favour and reſpect he had for him. This did not a little rejoyce our Engliſh man. Withal the King told him, that he would ſend him a Preſent, which ſhould be two Cabareets or Goats, which they do value at a very high rate; the King having not above 16 or 18. He tells the King, that the King of <hi>England</hi> had many thouſands of his ſubjects, that were under the degree of Gentlemen, which had a thou<g ref="char:EOLhyphen"/>ſand of Sheep apiece; the fleſh of which, they valued at a very much higher rate than Goats. Though our Engliſh man lived very handſomely with this <hi>E-fn-man-cha</hi> King of the <hi>Ca<g ref="char:EOLhyphen"/>la-nanch,</hi> yet his deſires and his hopes were ſtill for his Native Countrey: at length he obtained a promiſe from his King, that the firſt Engliſh ſhip that came into the Road, ſhould have li<g ref="char:EOLhyphen"/>berty to releaſe or purchaſe him; this very much rejoiced his heart: now he thought every day a year, till he could hear of, or ſee ſome Engliſh Ship arrived. Many times when he was a<g ref="char:EOLhyphen"/>lone, his heart would be oppreſt with ſighs and ſobbings, when he thought of his Relations, and the comfortable ſociety that they had together; that it ſhould be his unhappy fate to be ca<g ref="char:EOLhyphen"/>ptivated amonſt barbarous Infidels. Oftentimes did he walk down to the Sea-ſide, ſometimes with hopes, ſometimes with fear, earneſtly expecting the wind of Gods Providence to blow in ſome Engliſh Ship thither: his often recourſe to the Sea-ſide was diſcerned by one <hi>Ja-ga</hi> a Wizard, &amp; the chiefeſt in three or four Kingdoms thereabouts; they are perſons that the Natives give very much credit to, and on any difficult occaſion run to them for ſatisfaction. That famous Delphean Oracle was ne<g ref="char:EOLhyphen"/>ver had in greater adoration, than the prophetical ſpeeches of theſe Moriſh Wizards. Though they have infinite numbers of them in every place, yet this <hi>Ja-ga</hi> had the moſt renown amongſt them; and one day he comes to him, and very kindly ask'd him, why he ſo very often frequented that place; he
+<pb n="9" facs="tcp:205822:5"/>told him, to ſee if he could diſcover any Engliſh Veſſel to come in there; but he being not unacquainted with his great fame, askt him when he did believe there would one come in; not that he was willing to give credit to any of their divinations, but ſup<g ref="char:EOLhyphen"/>poſing that he thereby ſhould pleaſe him and anſwer his expectation. <hi>Ja-ga</hi> immediately told him that the fifteenth day after an Engliſh Ship ſhould come into the Road. Then he askt him whether that ſhip ſhould carry him away. To this he anſwered doubtfully, but told him that he ſhould be offered to the Maſter of the Ship, and if they could not a<g ref="char:EOLhyphen"/>gree, but that he ſhould come to ſhoar again, he ſhould not be ſold, and that in a very ſhort time after he ſhould dye for grief. Theſe fifteen days ſeem'd very long and tedious; many a look did he caſt on the Sea with an aking heart: the fourteenth day he went to the higheſt hill there-about, but to no purpoſe, for he could diſcover no ſhip: next morning he went again two or three times, but ſaw none: about two or three hours after came running into <hi>E-fn-man-cha,</hi> ſome of the Mores, and told him there was a Canoe coming, ſo they called our ſhips, at which our Engliſh man heartily rejoyced, hoping then to be releaſt forthwith, yet durſt not ſhew his Joy for fear of puniſh<g ref="char:EOLhyphen"/>ment or of death; for though he lived better now than with his firſt Maſter, yet his ſervice was far worſe than the ſlaves in <hi>Turkey,</hi> and their diet worſe than Dogs meat; therefore had he cauſe enough of inward joy; the ſhip came immedi<g ref="char:EOLhyphen"/>ately in, and he hies away preſently to <hi>Ja-ga,</hi> to know if it were an Engliſh ſhip, who reſolved him that it was; it happe<g ref="char:EOLhyphen"/>ned to be the St. <hi>Maloes</hi> Merchant, Captain <hi>Royden</hi> Comman<g ref="char:EOLhyphen"/>der, who haſtened to diſpatch his buſineſs, took in his Ne<g ref="char:EOLhyphen"/>groes, and was ready to ſail, and our Engliſh man heard never a word what ſhould become of him, the King never offering to ſell him; this put him on a reſolution to endeavour to make an e<g ref="char:EOLhyphen"/>eſcape, and to that end had prepared a piece of Timber which he had drawn near the water ſide, on which he intended to paddle to the ſhip, which then lay about a league from the ſhore. Juſt by the Sea ſide, as he was about to launch his little
+<pb n="10" facs="tcp:205822:6"/>floating ſtick, he eſpied a great Aligator, which will devour a man at a mouthful; this made him alter his reſolution, and reſolve rather to live with inhumane infidels, than to throw himſelf into ſo imminent a danger, which would have been little leſs than ſelf-murther. But the next day, which I may call a day of <hi>Jubile,</hi> Almighty God opened the heart of the King to let the poor Engliſh man go: he ſent him in a Canoe, plac'd between a Negroes legs, with ſome others to guide this ſmall veſſel, for fear he ſhould leap over-board, and ſwim to the ſhip. At a diſtance from the ſhip he hailed her in the En<g ref="char:EOLhyphen"/>gliſh Tongue, which was no ſmall cauſe of admiration to thoſe on board to hear an Engliſh Tongue out of their Canoes: the Negroes gave him leave to ſtand up and ſhew himſelf to the Captain, to whom he gave an account how four were left there, and only he preſerved. It was a pretty while before they could ſtrike a bargain, though the Captain was reſolved not to leave him behind. Several times the Negroes padled a<g ref="char:EOLhyphen"/>way with their Canoe, reſolving not to part with him; but what with his entreaties and promiſes he perſwaded them to the ſhip again, and they delivered him on board for forty five Copper Bars and Iron Bars, each Copper Bar being about the bigneſs of a Youths little finger, the Iron Bars a little bigger. Now were his joys compleated, he thought himſelf, as it were caught up into the third heavens; he could hardly perſwade himſelf but it was a Dream or Viſion, and that he did not re<g ref="char:EOLhyphen"/>ally ſee Engliſh faces or embrace Engliſh bodies. It was ſome time before he could throw himſelf at the Captains feet, and acknowledge his infinite cauſe of joy in himſelf, and thankful<g ref="char:EOLhyphen"/>neſs to him for his deliverance from ſuch a ſevere Captivity; that he that lately was a ſlave to Infidels, that worſhip they know not what, ſhould now ſee the faces of Chriſtians, and joyn with them in worſhiping the true God; and to him firſt he offered up the ſacrifice of hearty thankſgiving, that had ſent his Angel to redeem him from ſo cruel a bondage. When he came on board, his hair was very long, and his skin tawny (<hi>Ma<g ref="char:EOLhyphen"/>latto</hi> like) having gone naked all the time he was there, and fre<g ref="char:EOLhyphen"/>quently
+<pb n="11" facs="tcp:205822:6"/>anointing himſelf with palm Oyl, he looked like a Tawny-More; but immediately the Sea-men aboard with Chri<g ref="char:EOLhyphen"/>ſtian-like hearts apparelled him. The Maſter commanded to hoiſe ſail, and having a fair wind, they ſailed to <hi>Barbadoes,</hi> where Captain <hi>Royden</hi> was to tarry ſome time; but the Relator earneſtly deſiring to go to his Native Countrey, and his relations, got paſſage to the <hi>Downs,</hi> in the <hi>Catharine</hi> of <hi>London,</hi> Captain <hi>South</hi> Commander, which through Gods goodneſs in a few weeks arrived in the <hi>Downs,</hi> where the Relater was put on ſhore, to his Unkle, Mr. <hi>Richard Watts</hi> of <hi>Deal,</hi> his great joy and ſatisfaction, who took this relation from his own mouth.</p>
+         </div>
+         <div type="part">
+            <pb n="12" facs="tcp:205822:7"/>
+            <p>HAving ſhewed you how he was captivated, and ſome part of his tryals and troubles, and alſo his Deliver<g ref="char:EOLhyphen"/>ance and freedom; we will now ſpeak of the People, and of their Country, as it was taken from his own mouth, whis is no more than others have ſpoken formerly, who have been in the ſame Countrey.</p>
+            <div type="section">
+               <head>The People.</head>
+               <p>THe People are very careleſs, idle, ſluggiſh, given wholly to eaſe; going ſtark naked (only ſome of the chiefeſt ha<g ref="char:EOLhyphen"/>ving a little aporn to cover their nakedneſs) not exerciſing themſelves either in work or play; free from having any tillage whatſoever, (a ſmall part only for Tobbacco, for their own uſe, excepted) having no thought for to morrow. Their ſta<g ref="char:EOLhyphen"/>ture and bigneſs not near ſo big as our Engliſh.</p>
+            </div>
+            <div type="section">
+               <head>Language.</head>
+               <p>THeir Language is called the <hi>Tata</hi> Language: it is contained in very few wrods, only ſo much as barely diſcovers their intentions: and is in part underſtood of all <hi>Negroes.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Countrey.</head>
+               <p>THe Countrey ſeems to be very ſertile, overgrown with wood: Sugar Canes naturally grow there. He has been in moſt parts of the <hi>Weſt-Indies,</hi> yet he ſays, he never ſaw bigger nor more juicy than is there: the people lye ſecure as they think, but indeed lie very open, &amp; are a prey to a handful of men. There are many Bears (which are very good meat) which they of<g ref="char:EOLhyphen"/>ten eat of, when they take pains to catch them. They have
+<pb n="13" facs="tcp:205822:7"/>alſo Hogs, Beefs, Deer and Buffelows, divers ſorts of good eating Fowls, as Cocks and Hens, Parots, Parakeets, &amp;c. Roots and ſeveral ſorts of herbs, alſo Palm-wine, which they have by cutting a top of a tree, then iſſues forth the wine as ſap of wood, when 'tis burning. There is alſo very good Fiſh; there is plenty of many things, they only want laborious perſons to catch proviſion (for all are wild) and to cut down the Woods: <hi>John Watts</hi> being much in the <hi>Weſt-Indies,</hi> and underſtanding the way to make Sugar, invited them to learn, having ſuch excellent juicy Canes. But idleneſs would not hearken to ſo reaſonable a requeſt.</p>
+            </div>
+            <div type="section">
+               <head>Their Proviſions.</head>
+               <p>THeir Proviſions is Ebung, a root like a Turnip, and as good and hearty as a Pottato, Yams, Plantons, Palm oyl, Water and Palm wine for drink: their fleſh is Elephants, wild Boars, Sows and Pigs, Deer, Munkeys, Baboons, Dogs, &amp;c. their Fiſh is Sea-cows and Bulls, Alegators; Albecores, the Cat<g ref="char:EOLhyphen"/>fiſh, &amp;c.</p>
+            </div>
+            <div type="section">
+               <head>Their Weapons.</head>
+               <p>BOws, Arrows, and Swords, they make of a piece of Iron they ſteal from the Engliſh, and beat out with ſtones, which they neatly engrave: alſo they have a lance, which is alſo tipt at end with a piece of Iron, and cut and engraved with flints, as they do their Swords: very few of them have either lance or ſword, many of them have ſwords of Iron-Wood, ſo called there. Their Bow is about four foot long: their Arrows about two foot and a quarter: their lance is about five foot long. Theſe are the Weapons they fight with, and with them they do much miſchief.</p>
+            </div>
+            <div type="section">
+               <head>Of their Houſes.</head>
+               <p>THeir Houſes are bigger or leſſer, according to the Family and number of wives every man enjoys (for every one
+<pb n="14" facs="tcp:205822:8"/>hath liberty to have as many wives as he pleaſes; the ordinary men have two, three, or four; but the rich men and the King have many wives) ſet on ſcratches or poſts covered with the leaves of a <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mbo</hi> (<hi>alias</hi> a Palm-wine) tree: the going in is very low (not above three foot high) and within, it is not ſix foot high: in this room is their fire kept day and night, their lodgings joining to this room: every wiſe hath her ſeveral houſe or lodging for her ſelf and children, but all make uſe of this common ſire, which is only for dreſſing of victuals; they have no occaſion for a fire of any other uſe.</p>
+            </div>
+            <div type="section">
+               <head>Of their Habit.</head>
+               <p>THe King and ſome great men have clouts as big as a ſheet of large paper to cover their nakedneſs: ſo likewiſe the Kings wives and great mens wives have a pilch or clout; but for the common people, they go ſtark naked, and are no more aſhamed than brute beaſts.</p>
+            </div>
+            <div type="section">
+               <head>Of their God.</head>
+               <p>THey have no particular place of Worſhip, neither do they congregate themſelves, nor are there Miniſters, or in the leaſt a talk of their God (but of fear of being beat by him) but like beaſts riſe out of their little lodgings; eat, drink, and take their pleaſures, and at night ſleep again. He hath often<g ref="char:EOLhyphen"/>times heard them ſay, their God (which is the Devil) often<g ref="char:EOLhyphen"/>times appears to them in the likeneſs of a man, about two foot and a half high, as black as they are, whom they call <hi>Ajah,</hi> (which is very ſtrange that the Devil ſhould give himſelf ſuch a name, which is compounded of <hi>A</hi> and <hi>Jah,</hi> which is one of the names of God, as in <hi>Exodus: Jah</hi> is my name, ſo <hi>Ajah</hi> be<g ref="char:EOLhyphen"/>ing joined together, is as much as if the Devil ſhould call him<g ref="char:EOLhyphen"/>ſelf without God, or againſt God. But for that the learned will tell you at eaſe, that with much ſtudy cannot be reſolved by my pen.) When any of them are ſick, they go to the picture of their <hi>Ajah,</hi> and ſpeak to it, then ſuddenly after he appears, as at
+<pb n="15" facs="tcp:205822:8"/>other times: for when he appears in a humane ſhape, he hath many Copper bars about his loins, legs, neck, and arms, as the chiefe of them go with; then all preſently worſhip him: then preſently they kill Dogs, Goats, or Chickens (but moſt com<g ref="char:EOLhyphen"/>monly Dogs) according as he commands, cutting off their heads, throwing the blood on the ſick perſon, burning the bodies, and burying the heads and legs for a ſacrifice to <hi>Ajah.</hi> If he re<g ref="char:EOLhyphen"/>cover, he takes three or four Chickens and other things, and hangs them up alive by the legs over where he was ſick, until they are dead; and when they are dead, he hangs them without his houſe at the top of a high pole, who that night are eaten up by the Buzzards, and other wild fowl. If the ſick man re<g ref="char:EOLhyphen"/>cover not, and if he be rich, they take ſeveral of his ſlaves before his face and be-head them, and throw their blood on their Ma<g ref="char:EOLhyphen"/>ſter. Theſe poor creatures think it a great honour that they may loſe their lives for the recovery of their Maſters health.</p>
+            </div>
+            <div type="section">
+               <head>If they dye.</head>
+               <p>If ordinary people be ſick and like to dye, they cut off their heads, and keep them above ground five days. But if a rich man be ſick, they cut not off his head, but let him die naturally. And when five days are expired, they bury him with his Cop<g ref="char:EOLhyphen"/>per bars about his neck, waſte, arms, and legs, as they uſually go, burying with him every ſort of that houſehold-ſtuff they have, as a ſtool, an earthen Pot, a Calabaſh, a Goard, <hi>&amp;c.</hi> and with him ſome of his ſervants heads, ſometimes three or four, ſometimes ten or twelve; and this is a credit for the Maſter, and an honour to the ſervant. Into the grave is killed and thrown in ſeveral Goats, Chickens, and other proviſions, ac<g ref="char:EOLhyphen"/>cording to the number of the perſons therein; for their <hi>Ajah</hi> perſwades them they go into a far Countrey, where there is all neceſſaries and all riches, and that this proviſion is to eat by the way for the Gentleman and his men that are buried. But when once they come there, they ſhall have all whatever they deſire.</p>
+            </div>
+            <div type="section">
+               <pb n="16" facs="tcp:205822:9"/>
+               <head>Of their King.</head>
+               <p>He knows not whether the King be Hereditary or elective. this he obſerved in both Kingdomes, that every morning the young Maidens of the Town where the King lives, wait for the Kings riſing at his houſe or Palace, which is larger and hand<g ref="char:EOLhyphen"/>ſomer than any of theirs, becauſe he hath more wives; when he comes out they keep continual bowing with their heads and bodies to him for the ſpace of eight or ten minutes, ſaying, <hi>Aa, eera,</hi> and clap their hands; which words, <hi>Aa</hi> is how do you, and <hi>eera</hi> is thanks for his health; he all the time ſaying <hi>Aa,</hi> or how do you. The whole people are as ſerviceable to their King, as we are to our Soveraign.</p>
+            </div>
+            <div type="section">
+               <head>Slaves.</head>
+               <p>THe Slaves they ſell to the Engliſh are priſoners taken in war: the Kings war much againſt one another. They have no Holds, Caſtles, nor Priſons; but for keeping thoſe they have ta<g ref="char:EOLhyphen"/>ken, until the next Ship comes in, with withs they faſten them to a pole, that they cannot untye themſelves, and get home. They are alſo perſwaded that they go to help that King to fight againſt his enemy, and that they ſhall live idlely, and eat good victuals, drink good liquor, and have cloaths, and that the King will give them great rewards. But if half were performed that is promiſed, they would be more ready to go, than we to fetch them.</p>
+            </div>
+            <div type="section">
+               <head>How <hi>Ajah</hi> uſes them.</head>
+               <p>He oftentimes heard them cry out in the night, making a very great ſcreeching noiſe, and lamentable cry, three or four hours together; and that is when they do not pleaſe <hi>Ajah,</hi> or he takes an occaſion againſt them, for he keeps them as ſlaves. Next day they bemoan themſelves to themſelves, for if they complain one to another, then he beats and pinches them worſe
+<pb n="17" facs="tcp:205822:9"/>than before. They told him oftentimes that <hi>Ajah</hi> appears to them in ſeveral ſhapes, and very oftentimes <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears them, he comes ſo ugly; but moſt times he comes in their own ſhape, with Copper Bars, as aforeſaid.</p>
+            </div>
+            <div type="section">
+               <head>Their Birth.</head>
+               <p>There is no more compaſſion, nor care taken on them, or for them that are big with child, than there is in <hi>England</hi> for their Sows, Cows, Sheep, &amp;c. (no nor ſo much) and when deliver<g ref="char:EOLhyphen"/>ed, they take as little care of their Children; for aſſoon as they are born, their mother fetches water, and with her hand puts it in their noſtrils till they are almoſt ſtrangled, then they take them up by the heels, their head downwards, for the water to run away; then they lay them on the ground, where after they have cryed theirs fill, they fall aſleep: this is all they have the firſt four and twenty hours. If they be poor women, they tye their children at their backs, and go to work.</p>
+            </div>
+            <div type="section">
+               <head>Their Marriages.</head>
+               <p>If a man and a maid agree, and reſolve to be betrothed (for 'tis certainly reported, widows there never marry) they go before ſeveral perſons, one whereof is the King, or a great man, and cut each others wriſt with a flint ſtone, and ſuck each others blood, and this is their marriage, and that knot there with them that cannot be broken.</p>
+            </div>
+            <div type="section">
+               <head>Of a Whore.</head>
+               <p>If a woman be taken in whoredom, they carry her to an Ants neſt, (which there is bigger than a buſhel, and hang in trees in a bunch like bees:) under the Ants they tye her faſt with withes, then with a pole ſhake down the neſt on her; where they keep her about half an hour, in which time ſhe is almoſt ſtung to death: then they carry her to a fire, and heat
+<pb n="18" facs="tcp:205822:10"/>her back, and alſo cut at leaſt ten gaſhes in it, that ſhe may be known: then for the next fault her husband ſells her.</p>
+            </div>
+            <div type="section">
+               <head>A <hi>Scould.</hi>
+               </head>
+               <p>If a wiſe ſcould with any of her neighbours, or with her hus<g ref="char:EOLhyphen"/>bands other wives, and ſhe be abuſive, eſpecially if ſhe ſtrikes, and he ſee it or have good evidence, he takes the ſcould, and cuts a croſs in her ſhoulder about four inches long, and if ſhe com<g ref="char:EOLhyphen"/>mit the like fault, he ſells her. Thus they take occaſion to ſell their wives, children and ſervants.</p>
+            </div>
+            <div type="section">
+               <head>A <hi>Thief.</hi>
+               </head>
+               <p>Though they generally are Thieves themſelves when they come into our ſhips, yet they are ſeverer againſt thieves in their own Country by blows, and for the ſecond fault ſell them.</p>
+            </div>
+            <div type="section">
+               <head>Wounds.</head>
+               <p>If any be wounded, they knock the wound, and cut round about it, and that is all the remedy.</p>
+            </div>
+            <div type="section">
+               <head>Rain.</head>
+               <p>The Rains come every full Moon, which they call a year, (for the Moon is their Governour for almoſt every thing) but once in three or four Moons it happens that ſo much water comes from the hills that it comes cloſe to their towns, and of<g ref="char:EOLhyphen"/>tentimes does miſchief.</p>
+            </div>
+            <div type="section">
+               <head>A Canoe.</head>
+               <p>A Canoe is their Boat, which is the body of a tree, which they cut hollow, ſomewhat like unto one of our Hog<g ref="char:EOLhyphen"/>troughs.</p>
+            </div>
+            <div type="section">
+               <pb n="19" facs="tcp:205822:10"/>
+               <head>Dreſſing of victuals.</head>
+               <p>They are very ſubject to their own humour, and will not be taught; he would have ſhewed them how to dreſs their victu<g ref="char:EOLhyphen"/>als, but they would not learn, ſaying, as for fleſh, if it were little more than hot through, it were enough: ſo alſo they eat their herbs and fiſh: as for ſalt, he never ſaw any there.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
